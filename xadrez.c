@@ -3,7 +3,7 @@
     // Função 
 
 void moverBispo(int passos) {
-    if(passos == 0) return;  // condição de parada da recursão
+    if(passos == 0) return;  
 
     // Loop 
     for(int i = 0; i < 1; i++) {
